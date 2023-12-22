@@ -13,6 +13,7 @@ from Biterm import *
 class Doc():
     '''
     @description: 处理文本的类
+    @ This is a commits
     @param {type} 
     @return: 
     '''
